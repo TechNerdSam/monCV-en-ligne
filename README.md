@@ -1,7 +1,3 @@
-Absolument. Voici une proposition de README.md de niveau professionnel, rédigé en français, pour votre projet de CV en ligne, en s'inspirant des informations de vos fichiers.
-
------
-
 # 📄 CV Interactif - Samyn-Antoy ABASSE
 
 Ce dépôt contient le code source de mon CV personnel en ligne. C'est une page unique, moderne et interactive, conçue pour présenter mon profil en tant qu'Ingénieur Prompt Full-Stack, mes compétences techniques et mon parcours.
@@ -40,3 +36,56 @@ Bien qu'il s'agisse d'un projet personnel, les suggestions, les rapports de bugs
 ## 📜 Licence
 
 Ce projet est distribué sous la licence MIT.
+
+# 🚀 SAMYN-ANTOY
+### Architecte Growth & Tech Augmentée par l'IA
+
+> *L'alliance du Code, de la Stratégie et du Design pour propulser votre business.*
+
+---
+
+## ⚡ EXPERTISE À HAUT IMPACT
+
+</div>
+
+### 💻 Dév Nouvelle Génération
+* **Développement assisté par IA (Prompt-to-Code)**
+* SysAdmin & DevOps
+* Infrastructures Robustes & Scalables
+
+### 📈 Croissance & Ads
+* **Stratégies d'Acquisition Agressives**
+* Marketing Digital 360°
+* Growth Hacking
+
+### 🎨 Visuels & Créa
+* **Photographie IA & GenAI**
+* Publicités à Haute Conversion (Creative Strategy)
+
+---
+
+<div align="center">
+
+## 👇 PASSEZ À LA VITESSE SUPÉRIEURE
+
+### 💼 [Collaborons ensemble : Le Blog Tech Pro de Samyn-Antoy ABASSE : https://monblog-sa-abasse.blogspot.com/
+
+---
+
+## 💎 MON ARSENAL & LIFESTYLE 2025
+*Les outils pour performer et durer.*
+
+| Catégorie | Gear / Outil | Pourquoi ? |
+| :--- | :--- | :--- |
+| **📱 Tech Mobile** | iPhone 16 - Puissance Pure : https://amzn.to/4ivKTuW
+| **🧱 Focus Créatif** |  LEGO Star Wars - Deep Work : https://amzn.to/44FrP7N
+| **⚡ Santé & Énergie** | Air Fryer - Cuisine Intelligente : https://amzn.to/48AECcZ
+
+---
+
+## 🧢 LA BOUTIQUE OFFICIELLE
+*Rejoignez le mouvement. Portez la vision.*
+
+### 🛒 [Accès Exclusif : Mon Store Créateur Fourthwall]: https://samynantoyabasse-shop.fourthwall.com
+
+</div>
